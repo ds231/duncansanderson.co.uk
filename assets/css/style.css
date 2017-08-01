@@ -1,8 +1,16 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 .code-buttons {
     margin-top: 25px;
     text-align: center;
 }
 
 .other-projects {
-    margin: 10px 0;
+    margin: 40px 0;
+}
+
+.img-responsive {
+    display: inline;
 }
